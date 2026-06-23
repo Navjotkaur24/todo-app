@@ -17,4 +17,4 @@ npm install
 npm run dev
 
 ## Live demo
-[View todo-app](https://aesthetic-sfogliatella-7e9845.netlify.app)
+[View todo-app](https://verdant-crostata-f44589.netlify.app)
