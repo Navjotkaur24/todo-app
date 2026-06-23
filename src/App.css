@@ -1,0 +1,41 @@
+.input-value{
+  border:none;
+  border-radius:5px;
+  padding:10px;
+  margin-right:10px;
+  color:white;
+  font-size:20px;
+}
+.add-btn{
+  background-color:rgb(0, 174, 255);
+  border:none;
+  padding:12px 15px;
+  border-radius:5px;
+  cursor:pointer;
+  font-weight:bold;
+  font-size:20px;
+}
+.empty{
+  margin-top:15px;
+}
+.delete-btn{
+  margin-left:10px;
+
+}
+.todo-input{
+  height:30px;
+  width:30px;
+  margin-top:30px;
+  
+}
+.todo-text{
+  margin-left:0;
+  font-size:30px;
+}
+.delete-btn{
+  width:30px;
+  height:30px;
+  font-size:30px;
+  margin-left:50px;
+  margin-top:10px;
+}
